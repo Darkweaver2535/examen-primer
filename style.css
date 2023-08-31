@@ -1,0 +1,28 @@
+.titulo {
+  color: #b31212;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-around;
+}
+.subtitulo {
+  color: #b9c3cd;
+  background-color: rgb(59, 68, 94);
+}
+.button1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button3 {
+  display: flex;
+  justify-content: space-around;
+}
+.button4 {
+  display: flex;
+  justify-content: space-around;
+}
